@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 
+
+![image](https://user-images.githubusercontent.com/105126861/221322348-b8bc5dd7-d4c3-477d-b9ce-d2ec6bac1939.png)
+
+https://user-images.githubusercontent.com/105126861/221322268-f9039826-ae5f-4aaa-8481-7034fa179bc8.mp4
+
 **LexDevs/LexDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
