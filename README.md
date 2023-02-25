@@ -1,6 +1,5 @@
-<div>
-  ![image](https://user-images.githubusercontent.com/105126861/221322348-b8bc5dd7-d4c3-477d-b9ce-d2ec6bac1939.png)
-</div>
+
+![giphy](https://user-images.githubusercontent.com/105126861/221323323-b7d6cdd6-bddd-4466-8767-588cb37bf558.gif)
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -17,4 +16,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+
 
